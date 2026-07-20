@@ -1,6 +1,6 @@
 <div align="center">
 
-# 이소연 | Audit & AX
+# Audit & AX
 
 [Financial Risk Screener](https://soyeon-sy-lee.github.io/financial-risk-screener/)
 ·
