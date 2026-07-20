@@ -73,22 +73,3 @@
 ·
 [Repository](https://github.com/soyeon-sy-lee/movie-recommender)
 
----
-
-## How I Work
-
-- **Accounting first**  
-  기술 적용 전에 회계적 질문과 사용자의 검토 목적을 먼저 정의합니다.
-
-- **Explainability**  
-  결과값뿐 아니라 어떤 정보가 결과에 영향을 주었는지 함께 제시합니다.
-
-- **Reproducibility**  
-  데이터 생성, 모델 학습 및 검증 절차가 다시 실행될 수 있도록 구성합니다.
-
-- **Professional judgment**  
-  자동화할 수 있는 부분과 회계사의 판단이 필요한 부분을 구분합니다.
-
-- **Responsible limitations**  
-  데이터 범위, 검증 수준 및 결과를 사용하면 안 되는 목적을 명시합니다.
-
