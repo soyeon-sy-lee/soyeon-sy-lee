@@ -16,7 +16,7 @@
 [Demo](https://soyeon-sy-lee.github.io/revenue-audit-risk-response-mapper/index.html)
 
 ### 2. [Financial Ratio-Based Corporate Risk Screener](https://github.com/soyeon-sy-lee/financial-risk-screener)
-재무비율을 기반으로 추가 검토가 필요한 기업의 우선순위를 산출하고, 위험점수의 주요 영향 요인과 임계값별 성능을 비교하는 설명가능한 머신러닝 웹 도구입니다.
+재무비율을 기반으로 추가 검토가 필요한 기업의 우선순위를 산출하고, 머신러닝에 기반하여 위험점수의 성능을 비교하는 도구입니다.
 
 
 [Demo](https://soyeon-sy-lee.github.io/financial-risk-screener/)
