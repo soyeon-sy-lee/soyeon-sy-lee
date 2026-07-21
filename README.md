@@ -28,6 +28,8 @@
 
 [Demo](https://soyeon-sy-lee.github.io/zero-to-vibe-coding/)
 
+[교재 PDF](https://github.com/soyeon-sy-lee/zero-to-vibe-coding/blob/main/Zero_to_Vibe_Coding_%EC%B4%88%ED%8C%90%282%29.pdf)
+
 
 
 ### 4. [AICE Associate Practice](https://github.com/soyeon-sy-lee/AICE-Associate-Practice)
