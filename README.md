@@ -34,7 +34,6 @@
 MovieLens와 Wikidata를 활용하여 취향 태그 기반 추천, 유사도 랭킹, 브라우저 로컬 피드백 학습을 구현한 정적 웹앱입니다.
 
 [Demo](https://soyeon-sy-lee.github.io/movie-recommender/)
-s
 
 ## Contact
 
