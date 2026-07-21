@@ -26,7 +26,14 @@
 
 
 
-### 4. [AICE Associate Practice](https://github.com/soyeon-sy-lee/AICE-Associate-Practice)
+### 4. [Movie Recommender](https://github.com/soyeon-sy-lee/movie-recommender)
+MovieLens와 Wikidata를 활용하여 취향 태그 기반 추천, 유사도 랭킹, 브라우저 로컬 피드백 학습을 구현한 정적 웹앱입니다.
+
+[Demo](https://soyeon-sy-lee.github.io/movie-recommender/)
+
+
+
+### 5. [AICE Associate Practice](https://github.com/soyeon-sy-lee/AICE-Associate-Practice)
 공개 데이터를 직접 전처리하여 분류·회귀 문제와 풀이를 설계한 AICE Associate 실전형 학습 자료입니다.
 
 `Jupyter Notebook`
@@ -34,10 +41,7 @@
 
 
 
-### 5. [Movie Recommender](https://github.com/soyeon-sy-lee/movie-recommender)
-MovieLens와 Wikidata를 활용하여 취향 태그 기반 추천, 유사도 랭킹, 브라우저 로컬 피드백 학습을 구현한 정적 웹앱입니다.
 
-[Demo](https://soyeon-sy-lee.github.io/movie-recommender/)
 
 ## Contact
 
