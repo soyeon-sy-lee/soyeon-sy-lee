@@ -26,9 +26,7 @@
 비개발자가 Python, Codex, ChatGPT를 활용해 첫 프로그램을 완성할 수 있도록 단계형 학습 흐름을 설계한 AI 코딩 입문 프로젝트입니다.
 
 
-[Demo](https://soyeon-sy-lee.github.io/zero-to-vibe-coding/)
-
-[교재 PDF](https://github.com/soyeon-sy-lee/zero-to-vibe-coding/blob/main/Zero_to_Vibe_Coding_%EC%B4%88%ED%8C%90%282%29.pdf)
+[Demo](https://soyeon-sy-lee.github.io/zero-to-vibe-coding/)   [교재 PDF](https://github.com/soyeon-sy-lee/zero-to-vibe-coding/blob/main/Zero_to_Vibe_Coding_%EC%B4%88%ED%8C%90%282%29.pdf)
 
 
 
