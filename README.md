@@ -1,75 +1,41 @@
-<div align="center">
+# 이소연 | Accounting × AI Transformation
 
-# Audit & AX
+- 회계·감사 관점의 업무 문제를 AI와 데이터 분석으로 구조화
+- 실제 검토 흐름에 적용할 수 있는 프로토타입으로 구현
 
-[Financial Risk Screener](https://soyeon-sy-lee.github.io/financial-risk-screener/)
-·
-[Revenue Audit Mapper](https://soyeon-sy-lee.github.io/revenue-audit-risk-response-mapper/index.html)
+ 
+## Interests
 
-</div>
+재무위험 분석, 감사 대응 매핑, 머신러닝 실습, AI 기반 개발 교육 프로젝트를 통한 회계 전문성과 기술 사이를 연결
+
+## Projects
+
+### 1. [Revenue Audit Risk-Response Mapper](https://github.com/soyeon-sy-lee/revenue-audit-risk-response-mapper)
+매출 관련 위험징후를 가능한 왜곡, 경영진 주장, 추가 확인 정보 및 감사절차 후보와 연결하여 감사 대응의 누락 가능성을 점검하는 도구입니다.
+
+[Demo](https://soyeon-sy-lee.github.io/revenue-audit-risk-response-mapper/index.html)
+
+### 2. [Financial Ratio-Based Corporate Risk Screener](https://github.com/soyeon-sy-lee/financial-risk-screener)
+재무비율을 기반으로 추가 검토가 필요한 기업의 우선순위를 산출하고, 위험점수의 주요 영향 요인과 임계값별 성능을 비교하는 설명가능한 머신러닝 웹 도구입니다.
 
 
-## Featured Projects
+[Demo](https://soyeon-sy-lee.github.io/financial-risk-screener/)
 
-### 01. Financial Ratio-Based Corporate Risk Screener
+### 3. [AICE Associate Practice](https://github.com/soyeon-sy-lee/AICE-Associate-Practice)
+공개 데이터를 직접 전처리하여 분류·회귀 문제와 풀이를 설계한 AICE Associate 실전형 학습 자료입니다.
 
-> 공개 재무비율 데이터를 이용해 추가 검토가 필요한 기업의 우선순위를
-> 제시하고, 위험점수의 주요 상승·완화 요인을 설명하는 분석 도구입니다.
-> 현재 버전은 재무비율 기반 검토 우선순위 흐름을 보여주는 프로토타입이며,
-> DART 재무제표 연동 기능은 포함되어 있으나 실제 운영 환경에서의
-> 안정적 데이터 수집·연동을 보장하지는 않습니다.
+`Jupyter Notebook`
 
-- 6,819개 관측치와 95개 재무 특성을 분석
-- 회계적으로 해석 가능한 핵심 재무비율 14개를 사용한 Logistic Regression
-- Dummy, 전체 변수 Logistic, 핵심 변수 Logistic, Random Forest 비교
-- 임계값별 검토량·Recall·Precision 비교
-- 과거 대만 기업 데이터라는 외부 일반화 한계 명시
+### 4. [Zero to Vibe Coding](https://github.com/soyeon-sy-lee/zero-to-vibe-coding)
+비개발자가 Python, Codex, ChatGPT를 활용해 첫 프로그램을 완성할 수 있도록 단계형 학습 흐름을 설계한 AI 코딩 입문 프로젝트입니다.
 
-**What this demonstrates**
 
-재무비율 분석 · 불균형 데이터 평가 · 설명 가능한 모델
-· 검토 우선순위 설계 · 모델 한계 문서화
+### 5. [Movie Recommender](https://github.com/soyeon-sy-lee/movie-recommender)
+MovieLens와 Wikidata를 활용하여 취향 태그 기반 추천, 유사도 랭킹, 브라우저 로컬 피드백 학습을 구현한 정적 웹앱입니다.
 
-[Live Demo](https://soyeon-sy-lee.github.io/financial-risk-screener/)
-·
-[Repository](https://github.com/soyeon-sy-lee/financial-risk-screener)
-·
-[Model Card](https://github.com/soyeon-sy-lee/financial-risk-screener/blob/main/docs/MODEL_CARD.md)
+[Demo](https://soyeon-sy-lee.github.io/movie-recommender/)
+s
 
----
+## Contact
 
-### 02. Revenue Audit Risk-Response Mapper
-
-> 매출·매출채권 위험징후를 가능한 왜곡 양상, 경영진 주장,
-> 추가 확인 질문 및 감사절차 후보로 연결하는 교육용 검토 도구입니다.
-
-- 위험 → 왜곡 가설 → 주장 → 추가 질문 → 감사절차의 검토 흐름 설계
-- 통제된 seed 지식베이스와 재현 가능한 합성 시나리오 생성기 구현
-- 필수 컬럼, 외래키, 중복, split 누수 등을 점검하는 검증 스크립트 작성
-- 주장 커버리지와 위험·절차 경고를 분리하여 표시
-- 전문가 검토 전 데이터의 상태와 적용 한계를 명시
-- 감사의견, 중요성, 표본크기 등 전문적 판단을 자동화하지 않도록 범위 제한
-
-**What this demonstrates**
-
-감사위험 평가 · 경영진 주장 · 감사절차 설계
-· 설명 가능한 규칙 · 데이터 검증 · 책임 있는 AI 활용
-
-[Live Demo](https://soyeon-sy-lee.github.io/revenue-audit-risk-response-mapper/index.html)
-·
-[Repository](https://github.com/soyeon-sy-lee/revenue-audit-risk-response-mapper)
-
----
-
-### 03. Movie Recommender
-
-> 공개 영화 데이터와 태그 기반 유사도를 이용한 정적 추천 웹앱입니다.
-
-이 프로젝트에서 실험한 태그 기반 구조화, 추천 근거 제시,
-로컬 피드백 아이디어를 이후 감사위험 대응 프로젝트의
-검토 흐름 설계에 발전시켰습니다.
-
-[Live Demo](https://soyeon-sy-lee.github.io/movie-recommender/)
-·
-[Repository](https://github.com/soyeon-sy-lee/movie-recommender)
-
+**Email:** syl.soyeon.lee@gmail.com
