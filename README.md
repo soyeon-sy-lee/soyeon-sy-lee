@@ -26,6 +26,9 @@
 비개발자가 Python, Codex, ChatGPT를 활용해 첫 프로그램을 완성할 수 있도록 단계형 학습 흐름을 설계한 AI 코딩 입문 프로젝트입니다.
 
 
+[Demo](https://soyeon-sy-lee.github.io/zero-to-vibe-coding/)
+
+
 
 ### 4. [AICE Associate Practice](https://github.com/soyeon-sy-lee/AICE-Associate-Practice)
 공개 데이터를 직접 전처리하여 분류·회귀 문제와 풀이를 설계한 AICE Associate 실전형 학습 자료입니다.
